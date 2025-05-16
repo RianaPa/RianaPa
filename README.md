@@ -1,4 +1,6 @@
-## Hi there 👋
+## Riana Putri Anugrah
+
+![RianaPa](/img/github-header-image.png)
 
 <!--
 **RianaPa/RianaPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m just completed [Fayara Hijab website](fayara.my.id)
+
+![RianaPa baca buku](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y5cWZsOWNlaTY1bWhzYmpnYzNrNWUza2FrNHR1c2dnYnpzZHhtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)
